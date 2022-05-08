@@ -1,5 +1,5 @@
 # Projeto :rocket:
-Aplicação completa para selecionar problemas e dá feedbacks
+Aplicação Web e Mobile para selecionar problemas e dá feedbacks
 
 # Tecnologias e Ferramentas utilizadas :robot:
 - [VsCode](https://code.visualstudio.com/)
