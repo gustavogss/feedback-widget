@@ -1,4 +1,4 @@
-# Projeto :rocket:
+# Projeto (Desenvolvimento) 🛠 
 Aplicação Web e Mobile para selecionar problemas e dá feedbacks
 
 # Tecnologias e Ferramentas utilizadas :robot:
